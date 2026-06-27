@@ -1,37 +1,143 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:00b4d8&height=200&section=header&text=MOHAMMED%20NABEEL%20T&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Public%20Speaker&descAlignY=58&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001d3d,70:003566,100:00b4d8&height=220&section=header&text=MOHAMMED%20NABEEL%20T&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Public%20Speaker&descAlignY=60&descSize=16&animation=fadeIn&stroke=00b4d8&strokeWidth=2" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+production-grade+web+apps.;MERN+Stack+%7C+Firebase+%7C+Razorpay+%7C+Java;Top+65+%40+DevsHouse'25+%E2%80%94+VIT+Chennai+(5000%2B+teams);Top+25+%40+IDC+Nexus'26+%E2%80%94+Built+FeedChain+in+24hrs;Software+Lead+%40+IARRD+%7C+Intern+%40+Azero+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=🚀+Shipping+production+apps+since+day+one.;⚡+547+contributions+%26+counting.;🏆+Top+65+%40+DevsHouse'25+—+5000%2B+teams.;🥇+Top+25+%40+IDC+Nexus'26+—+24hr+hackathon.;🌊+Built+Azhkadalil+Oru+Payanam+—+live+%26+paid.;☕+Daily+DSA+grind+%7C+A2Z+%2B+LeetCode.)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 🧠 Who Am I?
+
+```javascript
+const nabeel = {
+  name     : "Mohammed Nabeel T",
+  location : "Ranipet, Tamil Nadu 🇮🇳",
+  degree   : "B.E CSE @ CAHCET (2023–2027)",
+  gpa      : 8.3,
+  roles    : ["Full-Stack Developer", 
+              "Software Lead @ IARRD",
+              "Intern @ Azero Tech"],
+  languages: ["English", "Tamil", "Urdu"],
+  
+  currentlyDoing: [
+    "🏗️  Building MERN production apps",
+    "📚  A2Z DSA sheet in Java",
+    "⚡  100 Days LeetCode challenge",
+    "🌱  Mastering Java OOP + Design Patterns"
+  ],
+
+  mantra: "Code it. Ship it. Own it."
+};
+```
+
+</td>
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="matrix code rain" />
 
-## 👨‍💻 About Me
+<br/>
+<sub><i>547 contributions · 49+ repositories · always building</i></sub>
 
-🎓 **B.E CSE** @ C.Abdul Hakeem College of Engineering and Technology *(2023–2027)* · GPA: **8.3**
+</td>
+</tr>
+</table>
 
-💼 **Software Lead** @ IARRD · **Full-Stack Intern** @ Azero Tech
+---
 
-🏆 **Top 65** @ DevsHouse'25, VIT Chennai *(5000+ teams)* — built AvengerCore (AI fraud detection)
+## 🔥 DSA Progress — Daily Grind
 
-🥇 **Top 25** @ IDC Nexus'26 *(125 teams)* — built FeedChain in **24 hours**
+<div align="center">
 
-🚀 Shipped **2 live production apps** used by **15+ paying users**
+| 📚 Tracker | Status |
+|-----------|--------|
+| [A2Z DSA Sheet — Striver](https://github.com/MD-NABEEL-T/a2z-dsa-step1-) | 🟢 Active |
+| [LeetCode 100 Problems](https://github.com/MD-NABEEL-T/Leetcode100probl...) | 🟢 Active |
+| [Recursion in Java](https://github.com/MD-NABEEL-T/recursion-java) | ✅ Done |
+| [LeetCode Profile](https://leetcode.com/u/mdnabeelt/) | Daily streak |
 
-☕ Currently learning **DSA** in Java & deepening **Java OOP** fundamentals
+</div>
 
-📍 Ranipet, Tamil Nadu | 🗣️ English · Tamil · Urdu
+```
+Arrays → LinkedList → Stack/Queue → Trees → Graphs → DP
+████████████████████████░░░░░░░░░░░░  in progress
+```
 
-<br clear="right"/>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 Azhkadalil Oru Payanam
+**Marine Masterclass Event Platform**
+
+`Node.js` `Express` `Razorpay` `GSAP` `Canvas` `Vercel`
+
+- 15+ **live paid registrations** end-to-end
+- Canvas 2D underwater animated hero scene
+- Auto-confirmation emails via Apps Script
+- Real Razorpay webhook flow in production
+
+🔗 [azhkadalilorupayanam.vercel.app](https://azhkadalilorupayanam.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Fast & Foodious
+**Real-Time Canteen Ordering System**
+
+`React` `Node.js` `Firebase` `Razorpay` `Render`
+
+- Live order: **Pending → Preparing → Served**
+- Staff admin panel — menu, stock, scheduling
+- Full auth + solo-built from scratch
+- Deployed: Firebase Hosting + Render
+
+🔗 [fastfoodius-81742.web.app](https://fastfoodius-81742.web.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AvengerCore
+**AI-Powered Fraud Detection App**
+
+`React Native` `FastAPI` `Transformers`
+
+- **Top 65 / 5000+ teams** @ DevsHouse'25, VIT Chennai
+- Transformer-based fraud classification model
+- Mobile-first UI with real-time detection flow
+
+</td>
+<td width="50%" valign="top">
+
+### 🍱 FeedChain
+**Food Waste → NGO Real-Time Platform**
+
+`MERN Stack` `Real-time` `24hr Build`
+
+- **Top 25 / 125 teams** @ IDC Nexus'26
+- Connects event food donors with NGOs live
+- End-to-end functional — built in **24 hours**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,7 +165,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms**
 
@@ -67,68 +172,30 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌊 Azhkadalil Oru Payanam — Event Registration Platform
-> *IARRD Marine Masterclass 2026 · [azhkadalilorupayanam.vercel.app](https://azhkadalilorupayanam.vercel.app)*
-
-**Stack:** `Node.js` · `Express` · `Razorpay` · `Google Apps Script` · `GSAP` · `Canvas` · `Vercel`
-
-- **15+ end-to-end paid registrations** with live Razorpay payment flow
-- Immersive animated landing page — Canvas-based 2D underwater hero scene + GSAP ScrollTrigger
-- Auto-confirmation emails and Google Sheets logging via Apps Script
-- Deployed frontend on Vercel, backend on Render
-
----
-
-### 🍽️ Fast & Foodious — Real-Time Canteen Ordering System
-> *[fastfoodius-81742.web.app](https://fastfoodius-81742.web.app)*
-
-**Stack:** `React` · `Node.js` · `Express` · `Firebase Realtime DB` · `Razorpay` · `Firebase Hosting` · `Render`
-
-- Real-time order lifecycle: **Pending → Preparing → Served** using Firebase transactions
-- Staff admin panel with menu stock management, shop scheduling & payment verification
-- Full auth system — built, architected, and launched **entirely solo**
-
----
-
-### 🛡️ AvengerCore — AI-Powered Fraud Detection
-> *DevsHouse'25, VIT Chennai — Top 65 / 5000+ teams*
-
-**Stack:** `React Native` · `FastAPI` · `Transformers`
-
-- AI-assisted fraud detection app built under hackathon constraints
-- Transformer-based model integrated into a mobile-first frontend
-
----
-
-### 🍱 FeedChain — Food Waste to NGO Platform
-> *IDC Nexus'26, Annai Mira College — Top 25 / 125 teams · Built in 24 hours*
-
-- Connected food leftover donors from events with NGOs for **real-time claim & collection**
-- End-to-end functional prototype delivered within a 24-hour hackathon window
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MD-NABEEL-T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-NABEEL-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MD-NABEEL-T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&ring_color=00b4d8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-NABEEL-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MD-NABEEL-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MD-NABEEL-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-NABEEL-T&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&area_color=003566)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -136,42 +203,37 @@
 
 ## 🏆 Hackathons & Achievements
 
-| Event | Result | Year |
-|-------|--------|------|
-| 🥇 **DevsHouse'25** — VIT Chennai | Top 65 / 5000+ teams · Built AvengerCore | 2025 |
-| 🥇 **IDC Nexus'26** — Annai Mira College | Top 25 / 125 teams · Built FeedChain in 24hrs | 2026 |
-| 📝 **Pen to Podium** — National Article Finalist (MITS) | "RO Purifier Water Wastage — The Hidden Truth" | 2025 |
-| 💡 **Adobe · BuildWithIndia · SIH · Thiran** | National-level Round 2 participant | 2025 |
+<div align="center">
 
----
+| 🏅 | Event | Result | Year |
+|----|-------|--------|------|
+| 🥇 | **DevsHouse'25** — VIT Chennai | Top 65 / **5000+ teams** · AvengerCore | 2025 |
+| 🥇 | **IDC Nexus'26** — Annai Mira College | Top 25 / **125 teams** · FeedChain in 24hrs | 2026 |
+| 📝 | **Pen to Podium** — MITS (National) | Article Finalist · "RO Purifier Water Wastage" | 2025 |
+| 💡 | **Adobe · BuildWithIndia · SIH · Thiran** | National Round 2 Participant | 2025 |
 
-## 📚 Currently Learning
-
-```
-📌 Data Structures & Algorithms  →  Java (Arrays, LinkedLists, Trees, Graphs)
-📌 Java OOP                      →  Inheritance, Polymorphism, Design Patterns
-📌 System Design Basics          →  Scalability, Caching, Load Balancing
-```
+</div>
 
 ---
 
 ## 💼 Experience
 
 **🔧 Software Lead (Full-Stack Developer) — IARRD** *(Mar 2026 – Present)*
-> Led end-to-end development of 2 production event platforms · Razorpay · Google Sheets · Deployed on Vercel + Render · 15+ paying users
+> Built and shipped 2 production event platforms (Azhkadalil Oru Payanam + Vinvelil Oru Payanam). Handled full-stack architecture — Razorpay payment flows, Google Sheets automation, confirmation emails via Apps Script, deployment on Vercel + Render. **15+ paying users across both platforms.**
 
 **💻 Full-Stack Developer Intern — Azero Tech** *(Jun 2026 – Jul 2026)*
-> Built full-stack MERN features across React.js frontend and Node.js + Express.js backend
+> Built a **Hospital Management System** using the MERN stack in a team — React.js frontend, Node.js + Express.js backend, MongoDB database. Handled patient records, appointment scheduling, and admin dashboard features.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmdnabeel4656.tmn@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nabeel-t/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://newportfolio-mu-five.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mdnabeelt/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-NABEEL-T)
 
 </div>
@@ -182,10 +244,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MD-NABEEL-T&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/>
+<br/><br/>
 
-*"Ship it. Fix it. Scale it."*
+```
+I don't wait for perfect conditions.
+I build, break, learn, and ship.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:003566,100:0d1117&height=130&section=footer" />
 
 </div>
