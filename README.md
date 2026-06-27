@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001d3d,70:003566,100:00b4d8&height=220&section=header&text=MOHAMMED%20NABEEL%20T&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Public%20Speaker&descAlignY=60&descSize=16&animation=fadeIn&stroke=00b4d8&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:052e16,70:166534,100:22c55e&height=220&section=header&text=MOHAMMED%20NABEEL%20T&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Public%20Speaker&descAlignY=60&descSize=16&animation=fadeIn&stroke=22c55e&strokeWidth=2" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=🚀+Shipping+production+apps+since+day+one.;⚡+547+contributions+%26+counting.;🏆+Top+65+%40+DevsHouse'25+—+5000%2B+teams.;🥇+Top+25+%40+IDC+Nexus'26+—+24hr+hackathon.;🌊+Built+Azhkadalil+Oru+Payanam+—+live+%26+paid.;☕+Daily+DSA+grind+%7C+A2Z+%2B+LeetCode.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=680&lines=🚀+Shipping+production+apps+since+day+one.;⚡+547+contributions+%26+counting.;🏆+Top+65+%40+DevsHouse'25+—+5000%2B+teams.;🥇+Top+25+%40+IDC+Nexus'26+—+24hr+hackathon.;🌊+Built+Azhkadalil+Oru+Payanam+—+live+%26+paid.;☕+Daily+DSA+grind+%7C+A2Z+%2B+LeetCode.)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,7 +36,8 @@ const nabeel = {
     "🌱  Mastering Java OOP + Design Patterns"
   ],
 
-  mantra: "Code it. Ship it. Own it."
+  mantra: "Stay hard. Do the work. No days off."
+  // — David Goggins
 };
 ```
 
@@ -45,7 +46,7 @@ const nabeel = {
 
 <br/>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="matrix code rain" />
+<img src="https://media.giphy.com/media/ZVik7pIo9KB3UA2787/giphy.gif" width="320" alt="developer typing fast" />
 
 <br/>
 <sub><i>547 contributions · 49+ repositories · always building</i></sub>
@@ -182,22 +183,18 @@ Arrays → LinkedList → Stack/Queue → Trees → Graphs → DP
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MD-NABEEL-T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&ring_color=00b4d8"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-NABEEL-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MD-NABEEL-T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&ring_color=22c55e"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-NABEEL-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MD-NABEEL-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MD-NABEEL-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=ff6b35&currStreakLabel=22c55e&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-NABEEL-T&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&area_color=003566)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -232,7 +229,7 @@ Arrays → LinkedList → Stack/Queue → Trees → Graphs → DP
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmdnabeel4656.tmn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nabeel-t/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://newportfolio-mu-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://newportfolio-mu-five.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mdnabeelt/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-NABEEL-T)
 
@@ -242,15 +239,16 @@ Arrays → LinkedList → Stack/Queue → Trees → Graphs → DP
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MD-NABEEL-T&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MD-NABEEL-T&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
 ```
-I don't wait for perfect conditions.
-I build, break, learn, and ship.
+"Don't stop when you're tired.
+Stop when you're done."
+— David Goggins
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:003566,100:0d1117&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:166534,100:0d1117&height=130&section=footer" />
 
 </div>
