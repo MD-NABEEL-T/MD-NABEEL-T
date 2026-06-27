@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:052e16,70:166534,100:22c55e&height=220&section=header&text=MOHAMMED%20NABEEL%20T&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Public%20Speaker&descAlignY=60&descSize=16&animation=fadeIn&stroke=22c55e&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:052e16,100:16a34a&height=200&section=header&text=MOHAMMED%20NABEEL%20T&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=⚡%20Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Public%20Speaker%20⚡&descAlignY=68&descSize=15&animation=scaleIn&stroke=22c55e&strokeWidth=3" />
 
 </div>
 
@@ -31,9 +31,9 @@ const nabeel = {
   
   currentlyDoing: [
     "🏗️  Building MERN production apps",
-    "📚  A2Z DSA sheet in Java",
-    "⚡  100 Days LeetCode challenge",
-    "🌱  Mastering Java OOP + Design Patterns"
+    "📚  A2Z DSA sheet in Java — daily",
+    "⚡  LeetCode 100 challenge — active",
+    "🌱  Java OOP + Design Patterns"
   ],
 
   mantra: "Stay hard. Do the work. No days off."
@@ -46,7 +46,7 @@ const nabeel = {
 
 <br/>
 
-<img src="https://media.giphy.com/media/ZVik7pIo9KB3UA2787/giphy.gif" width="320" alt="developer typing fast" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="developer coding" />
 
 <br/>
 <sub><i>547 contributions · 49+ repositories · always building</i></sub>
@@ -55,27 +55,7 @@ const nabeel = {
 </tr>
 </table>
 
----
 
-## 🔥 DSA Progress — Daily Grind
-
-<div align="center">
-
-| 📚 Tracker | Status |
-|-----------|--------|
-| [A2Z DSA Sheet — Striver](https://github.com/MD-NABEEL-T/a2z-dsa-step1-) | 🟢 Active |
-| [LeetCode 100 Problems](https://github.com/MD-NABEEL-T/Leetcode100probl...) | 🟢 Active |
-| [Recursion in Java](https://github.com/MD-NABEEL-T/recursion-java) | ✅ Done |
-| [LeetCode Profile](https://leetcode.com/u/mdnabeelt/) | Daily streak |
-
-</div>
-
-```
-Arrays → LinkedList → Stack/Queue → Trees → Graphs → DP
-████████████████████████░░░░░░░░░░░░  in progress
-```
-
----
 
 ## 🚀 Featured Projects
 
